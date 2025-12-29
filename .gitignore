@@ -1,0 +1,11 @@
+__pycache__/
+grouped_labels_auto/
+grouped_labels_final/
+grouped_labels_manual/
+models/
+rec_merged_data/
+rec_textline_data/
+rec_word_data/
+vietnamese_original/
+/dataset_analysis.csv
+/log_keep.json
