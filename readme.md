@@ -3,6 +3,7 @@
 1. `01_create_word_data.py`- convert single word dataset from Vintext style to Paddle style <br>
     input:
     * original Vintext dataset
+    
     output:
     * `rec_word_data` dataset
 
