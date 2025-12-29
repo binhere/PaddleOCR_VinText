@@ -50,6 +50,7 @@
     * `rec_merged_data` dataset
 
 7. `data_insight.ipynb` - optional, explore dataset
+
     output:
     * `dataset_analysis.csv`
 
